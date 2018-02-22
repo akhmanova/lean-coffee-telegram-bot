@@ -2,3 +2,4 @@ python-telegram-bot
 pyTelegramBotAPI
 requests
 six
+google-api-python-client
